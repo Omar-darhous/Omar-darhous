@@ -173,6 +173,16 @@ Responsive movie and TV shows application integrating the TMDB API with charts a
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Omar-darhous/Omar-darhous/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
 ## 🎓 Education & Certifications
 
 **Zagazig University**  
