@@ -7,24 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+React+Developer;React+%7C+TypeScript+%7C+JavaScript;Enterprise+Dashboards+%26+SaaS+Platforms;Building+Scalable+Web+Applications;Clean+Code+%7C+Reusable+Components+%7C+Responsive+UI" alt="Typing Animation"/>
 
-<br/><br/>
-
-<a href="https://github.com/Omar-darhous">
-<img src="https://img.shields.io/badge/GitHub-Omar--darhous-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/omar-darhous-0560b21a7/">
-<img src="https://img.shields.io/badge/LinkedIn-Omar%20Darhous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://omar-portfolio-rr8o.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8957E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="mailto:omardarhous111@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 </div>
 
 ---
@@ -254,6 +236,10 @@ Graduation Project: **Civilisation Sprite Platform — Excellent**
 
 <a href="mailto:omardarhous111@gmail.com">
 <img src="https://img.shields.io/badge/Email-omardarhous111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/Omar-darhous">
+<img src="https://img.shields.io/badge/GitHub-Omar--darhous-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
